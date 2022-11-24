@@ -1,6 +1,6 @@
 # Joseph Kirchhoff
 # 11-21-2022
-# Code built for through thickness heat transfer
+# Code built for through thickness heat transfer - heat penetration
 # The heat transfer in the tape and substrate are accounted for
 
 import math
